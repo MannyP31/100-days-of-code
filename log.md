@@ -10,3 +10,9 @@ I just came upon the Data structures in python including those of implementing s
 
 Today I had a dive to the depth of the concepts of DOM manipulation in js(although previously I had just given that a brief overlook)
 I too wrote some algorithms in java.
+
+3.(April 20, 2021)-DAY 3 OF 100 DAYS OF CODE !🖤(#100DaysOfCode)
+
+Today I came over the frameworks in python and the basics of quantum computing(for some crucial purpose).
+
+
