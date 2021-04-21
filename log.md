@@ -15,4 +15,8 @@ I too wrote some algorithms in java.
 
 Today I came over the frameworks in python and the basics of quantum computing(for some crucial purpose).
 
+4.(April 21, 2021)-DAY 4 OF 100 DAYS OF CODE !🖤(#100DaysOfCode)
+
+Today i wrote some java algorithms and tried some kindaa UI designing.
+
 
