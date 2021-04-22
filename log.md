@@ -19,4 +19,9 @@ Today I came over the frameworks in python and the basics of quantum computing(f
 
 Today i wrote some java algorithms and tried some kindaa UI designing.
 
+5.(April 22, 2021)-DAY 5 OF 100 DAYS OF CODE !🖤(#100DaysOfCode)
+
+Today i just learnt and wrote some codes for the java hashmap.
+
+
 
