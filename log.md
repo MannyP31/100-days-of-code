@@ -23,5 +23,7 @@ Today i wrote some java algorithms and tried some kindaa UI designing.
 
 Today i just learnt and wrote some codes for the java hashmap.
 
+6.(April 23, 2021)-DAY 6 OF 100 DAYS OF CODE !🖤(#100DaysOfCode)
 
+Just went through the basics of famous js frameworks "Mocha and chai".
 
