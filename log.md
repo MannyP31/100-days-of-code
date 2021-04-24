@@ -27,3 +27,6 @@ Today i just learnt and wrote some codes for the java hashmap.
 
 Just went through the basics of famous js frameworks "Mocha and chai".
 
+7.(April 24, 2021)-DAY 7 OF 100 DAYS OF CODE !🖤(#100DaysOfCode)
+
+Worked on some hackerrank problems in java script and learnt about automated testing with mocha .
