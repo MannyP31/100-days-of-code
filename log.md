@@ -30,3 +30,7 @@ Just went through the basics of famous js frameworks "Mocha and chai".
 7.(April 24, 2021)-DAY 7 OF 100 DAYS OF CODE !🖤(#100DaysOfCode)
 
 Worked on some hackerrank problems in java script and learnt about automated testing with mocha .
+
+8.(April 25, 2021)-DAY 8 OF 100 DAYS OF CODE !🖤(#100DaysOfCode)
+
+Dive to the basics of node js(How to get started)
