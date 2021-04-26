@@ -34,3 +34,7 @@ Worked on some hackerrank problems in java script and learnt about automated tes
 8.(April 25, 2021)-DAY 8 OF 100 DAYS OF CODE !🖤(#100DaysOfCode)
 
 Dive to the basics of node js(How to get started)
+
+9.(April 26, 2021)-DAY 9 OF 100 DAYS OF CODE !🖤(#100DaysOfCode)
+
+I came over the javascript map functions and some more concepts regarding the basics of node js.
