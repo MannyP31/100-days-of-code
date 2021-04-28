@@ -42,3 +42,7 @@ I came over the javascript map functions and some more concepts regarding the ba
 10.(April 27, 2021)-DAY 10 OF 100 DAYS OF CODE !🖤(#100DaysOfCode)
 
 Just came over how to get started with node based project development, npm packages,npx and many other things.
+
+11.(April 28, 2021)-DAY 11 OF 100 DAYS OF CODE !🖤(#100DaysOfCode)
+
+Just went to the depths of how to handle async operations with promises and did some cp on js.
