@@ -46,3 +46,7 @@ Just came over how to get started with node based project development, npm packa
 11.(April 28, 2021)-DAY 11 OF 100 DAYS OF CODE !🖤(#100DaysOfCode)
 
 Just went to the depths of how to handle async operations with promises and did some cp on js.
+
+12.(April 29, 2021)-DAY 12 OF 100 DAYS OF CODE !🖤(#100DaysOfCode)
+
+Today I covered the concepts of built in modules and how to create custom backend using node js.
