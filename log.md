@@ -50,3 +50,8 @@ Just went to the depths of how to handle async operations with promises and did 
 12.(April 29, 2021)-DAY 12 OF 100 DAYS OF CODE !🖤(#100DaysOfCode)
 
 Today I covered the concepts of built in modules and how to create custom backend using node js.
+
+13.(April 30, 2021)-DAY 13 OF 100 DAYS OF CODE !🖤(#100DaysOfCode)
+
+Again today i decided to have a quick recape of the basics of javascript and call back functions of node js.
+
