@@ -53,5 +53,5 @@ Today I covered the concepts of built in modules and how to create custom backen
 
 13.(April 30, 2021)-DAY 13 OF 100 DAYS OF CODE !🖤(#100DaysOfCode)
 
-Again today i decided to have a quick recape of the basics of javascript and call back functions of node js.
+Again today i decided to have a quick recap of the basics of javascript and call back functions of node js.
 
