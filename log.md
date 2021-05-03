@@ -61,6 +61,6 @@ Came over the entire basics of bootstrap.
 
 15.(May 2, 2021)-DAY 15 OF 100 DAYS OF CODE !🖤(#100DaysOfCode)
 
-I just recently finished making my portfolio website using html , css and js. That was too clumsy but fun indeed !
+I am currently working on my portfolio website using html , css and js. That is too clumsy but fun indeed. Lot more changes to accomodate yet !
 
 
