@@ -59,4 +59,8 @@ Again today i decided to have a quick recap of the basics of javascript and call
 
 Came over the entire basics of bootstrap.
 
+15.(May 2, 2021)-DAY 15 OF 100 DAYS OF CODE !🖤(#100DaysOfCode)
+
+I just recently finished making my portfolio website using html , css and js. That was too clumsy but fun indeed !
+
 
