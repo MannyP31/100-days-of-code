@@ -67,4 +67,8 @@ I am currently working on my portfolio website using html , css and js. That is 
 
 Tried making another simple portfolio website that required the implementation of bootstrap.
 
+17.(May 4, 2021)-DAY 17 OF 100 DAYS OF CODE !🖤(#100DaysOfCode)
+
+Tried doing some cp on python lists and tupples on hackerrank.
+
 
