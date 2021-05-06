@@ -71,4 +71,8 @@ Tried making another simple portfolio website that required the implementation o
 
 Tried doing some cp on python lists and tupples on hackerrank.
 
+18.(May 5, 2021)-DAY 18 OF 100 DAYS OF CODE !🖤(#100DaysOfCode)
+
+Went through some essential git commands and their funtions.
+
 
