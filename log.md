@@ -75,4 +75,8 @@ Tried doing some cp on python lists and tupples on hackerrank.
 
 Went through some essential git commands and their funtions.
 
+19.(May 6, 2021)-DAY 19 OF 100 DAYS OF CODE !🖤(#100DaysOfCode)
+
+Went through the node js addons , N-API and all the testing frameworks including those of mocha ,jest etc
+
 
