@@ -79,4 +79,8 @@ Went through some essential git commands and their funtions.
 
 Went through the node js addons , N-API and all the testing frameworks including those of mocha ,jest etc
 
+20.(May 7, 2021)-DAY 20 OF 100 DAYS OF CODE !🖤(#100DaysOfCode)
+
+Read about "cybersecurity" , how to implement security measures to prevent attack online.
+
 
