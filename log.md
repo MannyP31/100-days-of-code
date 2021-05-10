@@ -91,6 +91,9 @@ Wrote some data structure and algo in java.
 
 Solved some 10 days js challenge on hackerrank and got my 1st star ⭐.
 
+23.(May 10, 2021)-DAY 23 OF 100 DAYS OF CODE !🖤(#100DaysOfCode)
+
+Gave a final touch to the essential topics of ES6 so as to get started with 'React js'.
 
 
 
