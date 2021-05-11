@@ -95,6 +95,8 @@ Solved some 10 days js challenge on hackerrank and got my 1st star ⭐.
 
 Gave a final touch to the essential topics of ES6 so as to get started with 'React js'.
 
+24.(May 11, 2021)-DAY 24 OF 100 DAYS OF CODE !🖤(#100DaysOfCode)
 
+Read about how to write js using babel , fat arrows and many more .
 
 
