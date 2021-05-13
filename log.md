@@ -99,4 +99,8 @@ Gave a final touch to the essential topics of ES6 so as to get started with 'Rea
 
 Read about how to write js using babel , fat arrows and many more .
 
+25.(May 12, 2021)-DAY 25 OF 100 DAYS OF CODE !🖤(#100DaysOfCode)
+
+I tried to build my first react component , learnt about JSX , data flow betweeen components etc.
+
 
