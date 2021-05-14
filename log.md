@@ -103,4 +103,7 @@ Read about how to write js using babel , fat arrows and many more .
 
 I tried to build my first react component , learnt about JSX , data flow betweeen components etc.
 
+26.(May 13, 2021)-DAY 26 OF 100 DAYS OF CODE !🖤(#100DaysOfCode)
+
+Quick recape of the data structures in java (linkedlist , arrays etc)
 
