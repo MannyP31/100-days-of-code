@@ -107,3 +107,7 @@ I tried to build my first react component , learnt about JSX , data flow betweee
 
 Quick recape of the data structures in java (linkedlist , arrays etc)
 
+27.(May 14, 2021)-DAY 27 OF 100 DAYS OF CODE !🖤(#100DaysOfCode)
+
+Udemy lessons of modern javascript for react.
+
