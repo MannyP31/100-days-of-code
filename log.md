@@ -115,3 +115,8 @@ Udemy lessons of modern javascript for react.
 
 Had a great time doing the cp in python on hackerrank and thereby I was awarded with my 3rd star😋
 
+29.(May 16, 2021)-DAY 29 OF 100 DAYS OF CODE !🖤(#100DaysOfCode)
+
+Revised the ES6 Concepts (Array and arrow functions , callbacks and promises )
+
+
