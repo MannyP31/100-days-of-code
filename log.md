@@ -119,4 +119,8 @@ Had a great time doing the cp in python on hackerrank and thereby I was awarded 
 
 Revised the ES6 Concepts (Array and arrow functions , callbacks and promises )
 
+30.(May 17, 2021)-DAY 30 OF 100 DAYS OF CODE !🖤(#100DaysOfCode)
+
+Learned image processing using MATLAB. Thanks to Pantech Recruits for conducting an amazing webinar!
+
 
