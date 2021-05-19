@@ -113,7 +113,7 @@ Udemy lessons of modern javascript for react.
 
 28.(May 15, 2021)-DAY 28 OF 100 DAYS OF CODE !🖤(#100DaysOfCode)
 
-Had a great time doing the cp in python on hackerrank and thereby I was awarded with my 3rd star😋
+Had a great time doing the cp in python on hackerrank and thereby I was awarded with my 3rd star⭐
 
 29.(May 16, 2021)-DAY 29 OF 100 DAYS OF CODE !🖤(#100DaysOfCode)
 
@@ -122,5 +122,9 @@ Revised the ES6 Concepts (Array and arrow functions , callbacks and promises )
 30.(May 17, 2021)-DAY 30 OF 100 DAYS OF CODE !🖤(#100DaysOfCode)
 
 Learned image processing using MATLAB. Thanks to Pantech Recruits for conducting an amazing webinar!
+
+31.(May 18, 2021)-DAY 31 OF 100 DAYS OF CODE !🖤(#100DaysOfCode)
+
+Solved some 10 days of js problems on hackerrank and was awarded my 2rd star⭐
 
 
