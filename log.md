@@ -127,4 +127,8 @@ Learned image processing using MATLAB. Thanks to Pantech Recruits for conducting
 
 Solved some 10 days of js problems on hackerrank and was awarded my 2rd star⭐
 
+32.(May 19, 2021)-DAY 32 OF 100 DAYS OF CODE !🖤(#100DaysOfCode)
+
+(Attended Day 3 of MATLAB webinar) and (chaining promises in js)
+
 
