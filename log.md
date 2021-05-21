@@ -131,4 +131,8 @@ Solved some 10 days of js problems on hackerrank and was awarded my 2rd star⭐
 
 (Attended Day 3 of MATLAB webinar) and (chaining promises in js)
 
+33.(May 20, 2021)-DAY 33 OF 100 DAYS OF CODE !🖤(#100DaysOfCode)
+
+React js (storing data in component state via ajax call , consitional rendering , handling click events and many more)
+
 
