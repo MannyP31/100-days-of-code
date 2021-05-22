@@ -135,4 +135,8 @@ Solved some 10 days of js problems on hackerrank and was awarded my 2rd star⭐
 
 React js (storing data in component state via ajax call , consitional rendering , handling click events and many more)
 
+34 , 35. [(May 21,May 22) 2021]-DAY 34 and 35 OF 100 DAYS OF CODE !🖤(#100DaysOfCode)
+
+Solved some hackerrank problems of 10 days of js and got my 3rd star.⭐
+
 
