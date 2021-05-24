@@ -139,4 +139,12 @@ React js (storing data in component state via ajax call , consitional rendering 
 
 Solved some hackerrank problems of 10 days of js and got my 3rd star.⭐
 
+36. (May 23, 2021)-DAY 36 OF 100 DAYS OF CODE !🖤(#100DaysOfCode)
+
+Solved some 10 days js problems on hackerrank and I am on my way to next star.
+
+37.(May 24, 2021)-DAY 37 OF 100 DAYS OF CODE !🖤(#100DaysOfCode)
+
+Today I designed my first android layout using java in android studio.
+
 
