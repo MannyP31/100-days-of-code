@@ -147,4 +147,8 @@ Solved some 10 days js problems on hackerrank and I am on my way to next star.
 
 Today I designed my first android layout using java in android studio.
 
+38.(May 25, 2021)-DAY 38 OF 100 DAYS OF CODE !🖤(#100DaysOfCode)
+
+I tried making a glassmorphic card using css.
+
 
