@@ -151,4 +151,12 @@ Today I designed my first android layout using java in android studio.
 
 I tried making a glassmorphic card using css.
 
+39.(May 26, 2021)-DAY 39 OF 100 DAYS OF CODE !🖤(#100DaysOfCode)
+
+Went through some java DSA mcq for competitive and interview types purpose.
+
+40.(May 27, 2021)-DAY 40 OF 100 DAYS OF CODE !🖤(#100DaysOfCode)
+
+Solved the 10 days js problems on hackerrank and got my 4th star.⭐
+
 
