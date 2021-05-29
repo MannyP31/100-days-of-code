@@ -159,4 +159,9 @@ Went through some java DSA mcq for competitive and interview types purpose.
 
 Solved the 10 days js problems on hackerrank and got my 4th star.⭐
 
+41.(May 28, 2021)-DAY 41 OF 100 DAYS OF CODE !🖤(#100DaysOfCode)
+
+Attended the 11th day of the pantech webinar and got to know about the use of machine learning in MATLAB.
+
+
 
