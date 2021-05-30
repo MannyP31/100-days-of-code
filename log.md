@@ -163,5 +163,8 @@ Solved the 10 days js problems on hackerrank and got my 4th star.⭐
 
 Attended the 11th day of the pantech webinar and got to know about the use of machine learning in MATLAB.
 
+42.(May 29, 2021)-DAY 42 OF 100 DAYS OF CODE !🖤(#100DaysOfCode)
+
+Attended the quantum computing webinar conducted by christ university.
 
 
