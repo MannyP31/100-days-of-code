@@ -167,4 +167,8 @@ Attended the 11th day of the pantech webinar and got to know about the use of ma
 
 Attended the quantum computing webinar conducted by christ university.
 
+43 , 44 .(May 30 , 31 , 2021)-DAY 43 and 44 OF 100 DAYS OF CODE !🖤(#100DaysOfCode)
+
+Revised the concepts and practised some cp on java DSA.
+
 
