@@ -167,8 +167,13 @@ Attended the 11th day of the pantech webinar and got to know about the use of ma
 
 Attended the quantum computing webinar conducted by christ university.
 
-43 , 44 , 45 .(May 30 , 31 , june 1  2021)-DAY 43, 44 and 45 OF 100 DAYS OF CODE !🖤(#100DaysOfCode)
+43 , 44 , 45, 46 .(May 30 , 31 , june 1 ,2  2021)-DAY 43, 44, 45 and 46 OF 100 DAYS OF CODE !🖤(#100DaysOfCode)
 
 Revised the concepts and practised some problems on java DSA.(inheritance , oop , polymorphism , recursion , exceptions)
+
+47.(June 3, 2021)-DAY 47 OF 100 DAYS OF CODE !🖤(#100DaysOfCode)
+
+Attended the webinar on android app developement conducted by Amity university.
+
 
 
