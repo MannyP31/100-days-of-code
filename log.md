@@ -175,5 +175,9 @@ Revised the concepts and practised some problems on java DSA.(inheritance , oop 
 
 Attended the webinar on android app developement conducted by Amity university.
 
+48 , 49.(June 4 , 5 2021)-DAY 48 , 49 OF 100 DAYS OF CODE !🖤(#100DaysOfCode)
+
+Learnt some basic rules of designing some good logos using adobe xd.
+
 
 
