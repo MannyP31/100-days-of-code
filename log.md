@@ -179,5 +179,9 @@ Attended the webinar on android app developement conducted by Amity university.
 
 Learnt some basic rules of designing some good logos using adobe xd.
 
+50 , 51. (June 6, 7 2021)-DAY 50 , 51 OF 100 DAYS OF CODE !🖤(#100DaysOfCode)
+
+Portfolio designing with react js
+
 
 
