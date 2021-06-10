@@ -183,5 +183,10 @@ Learnt some basic rules of designing some good logos using adobe xd.
 
 Portfolio designing with react js
 
+52 , 53, 54. (June 8, 9 ,10 2021)-DAY 52 , 53 , 54 OF 100 DAYS OF CODE !🖤(#100DaysOfCode)
+
+Learnt some good graphic designing using canva .
+
+
 
 
