@@ -187,6 +187,10 @@ Portfolio designing with react js
 
 Learnt some good graphic designing using canva .
 
+55, 56. (June 11,12 2021)-DAY 55 and 56 OF 100 DAYS OF CODE !🖤(#100DaysOfCode)
+
+Solved some competitive programming related questions of 30 days of coding challenge conducted by my college using python and cpp.
+
 
 
 
