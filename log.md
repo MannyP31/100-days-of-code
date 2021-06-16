@@ -191,6 +191,14 @@ Learnt some good graphic designing using canva .
 
 Solved some competitive programming related questions of 30 days of coding challenge conducted by my college using python and cpp.
 
+57 , 58.(June 13,14 2021)-DAY 57 and 58 OF 100 DAYS OF CODE !🖤(#100DaysOfCode)
+
+Did some graphic designing using canva and competitive coding .
+
+59 . (June 15 2021)-DAY 59 OF 100 DAYS OF CODE !🖤(#100DaysOfCode)
+
+Concepts of java DSA (Recursion Big O notation , exception handling etc )
+
 
 
 
