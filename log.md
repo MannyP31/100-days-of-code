@@ -199,6 +199,18 @@ Did some graphic designing using canva and competitive coding .
 
 Concepts of java DSA (Recursion Big O notation , exception handling etc )
 
+60 , 61. (June 16 , 17 2021)-DAY 60 , 61 OF 100 DAYS OF CODE !🖤(#100DaysOfCode)
+
+Did some competitive programming .
+
+62,63,64,65. (June 18 , 19 , 20 , 21 2021)-DAY 62 , 63 , 64 , 65 OF 100 DAYS OF CODE !🖤(#100DaysOfCode)
+
+Did the google unlocked digital marketing course.
+
+Day 66. (June 22 2021)-DAY 66 OF 100 DAYS OF CODE !🖤(#100DaysOfCode)
+
+Microsoft Azure ( AI and ML workshop)
+
 
 
 
