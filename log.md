@@ -207,9 +207,21 @@ Did some competitive programming .
 
 Did the google unlocked digital marketing course.
 
-Day 66. (June 22 2021)-DAY 66 OF 100 DAYS OF CODE !🖤(#100DaysOfCode)
+66. (June 22 2021)-DAY 66 OF 100 DAYS OF CODE !🖤(#100DaysOfCode)
 
 Microsoft Azure ( AI and ML workshop)
+
+67 , 68 ,69 ,70 .(June 23 , 24 , 25 , 26 2021 ) -DAY 67 , 68 ,69 ,70 OF 100 DAYS OF CODE !🖤(#100DaysOfCode)
+
+Prepbytes webinar , google unlocked digital marketing course.
+
+71 ,72, 73 .(June 27 , 28 , 29  2021 ) -DAY 71 , 72 , 73  OF 100 DAYS OF CODE !🖤(#100DaysOfCode)
+
+Did some interview related problem practise (geeksfor geeks).
+
+74.(June 30 ,2021 ) -DAY 74  OF 100 DAYS OF CODE !🖤(#100DaysOfCode)
+ 
+ Worked on a CRUD (create , read , updtae and delete) in javascript.
 
 
 
