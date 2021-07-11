@@ -222,6 +222,14 @@ Did some interview related problem practise (geeksfor geeks).
 74.(June 30 ,2021 ) -DAY 74  OF 100 DAYS OF CODE !🖤(#100DaysOfCode)
  
  Worked on a CRUD (create , read , updtae and delete) in javascript.
+ 
+ 75, 76, 77.(July 1 ,2 , 3  2021 ) -DAY 75 , 76 , 77  OF 100 DAYS OF CODE !🖤(#100DaysOfCode)
+ 
+ DSA question practise .
+ 
+ 78 , 79 , 80 , 81 , 82 , 83, 84 .(July 4 , 5 , 6 , 7 , 8 , 9 , 10 ,2021 ) -DAY 78 , 79 , 80 , 81 , 82 , 83, 84 OF 100 DAYS OF CODE !🖤(#100DaysOfCode)
+ 
+ Attended college hackathon on 7 Days of web development.
 
 
 
