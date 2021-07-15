@@ -221,7 +221,7 @@ Did some interview related problem practise (geeksfor geeks).
 
 74.(June 30 ,2021 ) -DAY 74  OF 100 DAYS OF CODE !🖤(#100DaysOfCode)
  
- Worked on a CRUD (create , read , updtae and delete) in javascript.
+ Worked on a CRUD (create , read , update and delete) in javascript.
  
  75, 76, 77.(July 1 ,2 , 3  2021 ) -DAY 75 , 76 , 77  OF 100 DAYS OF CODE !🖤(#100DaysOfCode)
  
