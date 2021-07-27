@@ -229,7 +229,37 @@ Did some interview related problem practise (geeksfor geeks).
  
  78 , 79 , 80 , 81 , 82 , 83, 84 .(July 4 , 5 , 6 , 7 , 8 , 9 , 10 ,2021 ) -DAY 78 , 79 , 80 , 81 , 82 , 83, 84 OF 100 DAYS OF CODE !🖤(#100DaysOfCode)
  
- Attended college hackathon on 7 Days of web development.
+ Attended the college hackathon on 7 Days of web development.
+ 
+ 85, 86, 87, 88 . (July 11, 12, 13, 14 ,2021 ) -DAY 85, 86, 87, 88 OF 100 DAYS OF CODE !🖤(#100DaysOfCode)
+ 
+ Designed iPhone7 facebook login UI.
+ 
+ 89, 90 , 91 .(July 15, 16, 17 ,2021 ) -DAY 89, 90, 91 OF 100 DAYS OF CODE !🖤(#100DaysOfCode)
+ 
+ Practised some DSA problems  (geeksforgeeks)
+ 
+ 92, 93, 94 . (July 18, 19, 20 ,2021 ) -DAY 92, 93, 94 OF 100 DAYS OF CODE !🖤(#100DaysOfCode)
+ 
+ Google unlocked digital marketing course and achieved badges.
+ 
+ 95, 96, 97 . (July 21 , 22 , 23 ,2021 ) -DAY 95 , 96 , 97 OF 100 DAYS OF CODE !🖤(#100DaysOfCode)
+ 
+ DataStructures in java .
+ 
+ 98 . (July 24 ,2021 ) -DAY 98 OF 100 DAYS OF CODE !🖤(#100DaysOfCode)
+ 
+ Completed Email Marketing course and achieved my certificate .
+ 
+ 99 , 100 . (July 25, 26 ,2021 ) -DAY 99 , 1OO OF 100 DAYS OF CODE !🖤(#100DaysOfCode)
+ 
+ Concept of array rotation in java and here I just successfully completed my 100 days of coding challenge !!!!🎉💻😁
+ 
+ 
+ 
+ 
+ 
+ 
 
 
 
